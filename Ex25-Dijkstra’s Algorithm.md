@@ -17,8 +17,8 @@ To design and implement a Python program that helps an electric vehicle (EV) fin
 ```
 /*
 Program to find the Fastest Route to a Charging Station using Dijkstra’s Algorithm
-Developed by: K Dilli Babu
-Register Number: 212224110015
+Developed by: SIVAKUMAR R
+Register Number: 212223230209
 */
 
 import java.util.*;
